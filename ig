@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JessieDizzle</title>
+        <meta http-equiv="refresh" content="0; url=https://www.instagram.com/jessie_dietrich/" />
+    </head>
+    <body style="background-color: #1f1f23;"></body>
+</html>
